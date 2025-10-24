@@ -1,4 +1,5 @@
 import  java.util.Scanner;
+
 public class DogWalkCompany {
     private int[] schedule;
 
